@@ -1,7 +1,7 @@
 # SpotifyC2
 Command and Control functionality using Spotify.
 
-Related [blog post](https://john-woodman.com/posts/SpotifyC2/)
+Related [blog post](https://john-woodman.com/research/spotifyc2/)
 ## How It Works
 ### genAcrostic.py
 Commands are sent to the infected computer by creating an acrostic of the command with spotify songs (using the json files in /songs) and creates a playlist with the acrostic.
